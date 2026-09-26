@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-<title id="title">Roman Elistratov — Backend Developer</title>
-<desc id="desc">Python and Java. APIs, event-driven systems, and product engineering.</desc>
+<title id="title">Роман Елистратов — Бэкенд-разработчик</title>
+<desc id="desc">Python и Java. API, событийная архитектура и продуктовая разработка.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#080d17"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#6ee7db"/><stop offset="1" stop-color="#92a4ff"/></linearGradient>
@@ -13,13 +13,13 @@
 <circle cx="1050" cy="190" r="112" fill="none" stroke="#20314b"/>
 <path d="M864 126H946L982 190H1104M864 254H946L982 190M1050 42V78M1050 302V338" fill="none" stroke="#6ee7db" stroke-opacity=".45" stroke-width="2"/>
 <g fill="#6ee7db"><circle cx="864" cy="126" r="5"/><circle cx="864" cy="254" r="5"/><circle cx="982" cy="190" r="6"/><circle cx="1104" cy="190" r="5"/></g>
-<text x="58" y="65" fill="#6ee7db" font-family="monospace" font-size="15" letter-spacing="3">ROBLRASH / ENGINEERING</text>
-<text x="54" y="151" fill="#f0f5ff" font-family="Arial,sans-serif" font-weight="700" font-size="61">Roman Elistratov</text>
-<text x="58" y="202" fill="#b9c7dd" font-family="Arial,sans-serif" font-size="28">Backend Developer</text>
-<text x="58" y="249" fill="#8294ae" font-family="Arial,sans-serif" font-size="19">APIs. Event-driven systems. Product thinking.</text>
+<text x="58" y="65" fill="#6ee7db" font-family="monospace" font-size="15" letter-spacing="3">ROBLRASH / РАЗРАБОТКА</text>
+<text x="54" y="151" fill="#f0f5ff" font-family="Arial,sans-serif" font-weight="700" font-size="57">Роман Елистратов</text>
+<text x="58" y="202" fill="#b9c7dd" font-family="Arial,sans-serif" font-size="28">Бэкенд-разработчик</text>
+<text x="58" y="249" fill="#8294ae" font-family="Arial,sans-serif" font-size="19">API. Событийная архитектура. Продуктовый подход.</text>
 <rect x="58" y="293" width="94" height="32" rx="8" fill="#183336"/>
 <text x="105" y="314" text-anchor="middle" fill="#8aeee2" font-family="monospace" font-size="14">PYTHON</text>
 <rect x="164" y="293" width="78" height="32" rx="8" fill="#252d49"/>
 <text x="203" y="314" text-anchor="middle" fill="#b5c2ff" font-family="monospace" font-size="14">JAVA</text>
-<text x="265" y="314" fill="#8294ae" font-family="monospace" font-size="14">MOSCOW · HSE UNIVERSITY</text>
+<text x="265" y="314" fill="#8294ae" font-family="monospace" font-size="14">МОСКВА · НИУ ВШЭ</text>
 </svg>
