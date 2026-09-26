@@ -1,35 +1,86 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roman
-=============================================================================================================================
-
-Python Developer
-----------------
-
-Всем привет меня зовут Роман и я начинающий разработчик. На данный момент обучаюсь в НИУ ВШЭ на программе "Дизайн и разработка информационных продуктов". Занимаюсь олимпиадным программированием и изучаю алгоритмы и структуры данных.
-
-* 🌍  Живу в России, город Москва
-* ✉️  Связь со мной [mr.roman.elistratov@mail.ru](mailto:mr.roman.elistratov@mail.ru)
-
-<a href="https://www.github.com/Roblrash" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Roblrash?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a></a>
+<p align="center">
+  <img src="./profile-header.svg" width="100%" alt="Roman Elistratov — Backend Developer · Python & Java" />
 </p>
 
-
-### Socials
-
-<p align="left">
-<a href="https://www.youtube.com/c/roblrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roblrash" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/roblrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="roblrash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roblrash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roblrash" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:mr.roman.elistratov@mail.ru"><img src="https://img.shields.io/badge/Email-Get_in_touch-182333?style=flat-square&logo=maildotru&logoColor=6ee7db" alt="Email" /></a>
+  <a href="https://codeforces.com/profile/roblrash"><img src="https://img.shields.io/badge/Codeforces-Competitive_programming-182333?style=flat-square&logo=codeforces&logoColor=92a4ff" alt="Codeforces" /></a>
+  <a href="https://www.leetcode.com/roblrash"><img src="https://img.shields.io/badge/LeetCode-Problem_solving-182333?style=flat-square&logo=leetcode&logoColor=efc77b" alt="LeetCode" /></a>
 </p>
 
-### Badges
+## About me
 
-<b>My GitHub Stats</b>
+I'm Roman, a backend developer based in Moscow. I build APIs and backend services with **Python and Java**, and enjoy turning product ideas into working software.
 
-<a href="http://www.github.com/Roblrash"><img src="https://github-readme-stats.vercel.app/api?username=Roblrash&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Roblrash's GitHub stats" /></a>
+- **T-Bank** — 6 months of backend internship experience with Python and FastAPI.
+- **PROD winner** — 1st place in the team final; team lead and developer.
+- **HSE University, Faculty of Computer Science** — studying Design and Development of Information Products.
+- **Interests** — event-driven systems, backend architecture, algorithms, and practical AI integrations.
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FraudCore
+**Transaction monitoring & explainable scoring**
+
+A Java backend for processing bank transactions asynchronously with Kafka, applying fraud rules, and managing analyst cases.
+
+JWT authentication · audit trail · Prometheus & Grafana
+
+**Java 21 · Spring Boot · Kafka · PostgreSQL**
+
+[Explore the code →](https://github.com/Roblrash/FraudCore)
+
+</td>
+<td width="50%" valign="top">
+
+### BookIT
+**Coworking reservations & integrations**
+
+A team project from the PROD final: a FastAPI backend for workspace bookings, user management, and administration.
+
+Yandex OAuth · Telegram integration · S3-compatible storage
+
+**Python · FastAPI · PostgreSQL · Redis · Docker**
+
+[Explore the backend →](https://github.com/Roblrash/2025-final-command-team-17-LokalkaTeamBackend) · [Frontend →](https://github.com/Roblrash/2025-final-command-team-17-LokalkaTeam-Frontend)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br />
+
+- [GeometryAPI](https://github.com/Roblrash/GeometryAPI) — an ASP.NET Core REST API for geometric shapes, with DTOs, validation, and Entity Framework Core.
+- [PROD 2025 · Individual final](https://github.com/Roblrash/2025-final-individual-Roblrash) — my individual final repository.
+
+</details>
+
+## Tech stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python · Java · C++ |
+| **Backend** | FastAPI · Spring Boot · SQLAlchemy · Spring Data JPA |
+| **Data & messaging** | PostgreSQL · Redis · Apache Kafka |
+| **Infrastructure** | Docker · Docker Compose · Git · MinIO / S3 |
+| **Observability** | Prometheus · Grafana |
+| **Testing** | JUnit 5 · Mockito · Testcontainers |
+
+## What I'm focused on
+
+Building backend services with clear APIs, useful tests, and observable behavior. Deepening my Java / Spring experience and exploring how AI can become a useful part of real products.
+
+---
+
+<p align="center">
+  <b>Let's build something useful.</b><br />
+  <a href="mailto:mr.roman.elistratov@mail.ru">mr.roman.elistratov@mail.ru</a>
+</p>
+
