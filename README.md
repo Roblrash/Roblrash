@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Роман Елистратов — Бэкенд-разработчик · Python и Java" />
+  <img src="./profile-header-ru.svg" width="100%" alt="Роман Елистратов — Бэкенд-разработчик · Python и Java" />
 </p>
 
 <p align="center">
